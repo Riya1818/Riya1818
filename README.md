@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the vast world of coding, especially in machine learning data science.
 - 🌱 I’m currently learning the basics of python, excel, mysql etc to build a strong foundation in my domain.
 - 💞️ I’m looking to collaborate on beginner-friendly projects where I can learn and grow with the community.
-- 📫 How to reach me ...: 
+- 📫 How to reach me : https://www.linkedin.com/in/riya-priyadarshini-475b74278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and often find inspiration in them for coding challenges!
 
